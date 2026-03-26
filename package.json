@@ -1,0 +1,32 @@
+{
+  "name": "react-learning",
+  "version": "1.0.0",
+  "description": "this is namaste react learning",
+  "keywords": [],
+  "homepage": "https://github.com/Himanshigarg11/react#readme",
+  "bugs": {
+    "url": "https://github.com/Himanshigarg11/react/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Himanshigarg11/react.git"
+  },
+  "license": "ISC",
+  "author": "Himanshi",
+  "type": "commonjs",
+  "scripts": {
+    "start":"parcel index.html",
+    "build":"parcel build index.html",
+    "test": "jest"
+  },
+  "devDependencies": {
+    "parcel": "^2.16.4"
+  },
+  "dependencies": {
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4"
+  },
+  "browsersList":[
+    "last 2 versions"
+  ]
+}
